@@ -13,6 +13,11 @@
 
 ## GitHub
 
+### User Info
+
+- git config --local user.name "TaskForceTeamFrontier"
+- git config --local user.email ho9udata@naver.com
+
 ### 
 
 echo "# roblox_lua_script" >> README.md
